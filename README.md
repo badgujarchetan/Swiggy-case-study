@@ -2,9 +2,7 @@
 
 <h2>Question</h2>
 <P>
-1 .  HOW MANY RESTAURANTS HAVE A RATING GREATER THAN 4.5 ?
-  <img src ="C:/Users/Lenovo/OneDrive/Pictures/Screenshots/Screenshot 2024-03-21 150851.png" 
-
+1 .  HOW MANY RESTAURANTS HAVE A RATING GREATER THAN 4.5 ? 
 </P>
 
 <P>

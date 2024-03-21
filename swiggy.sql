@@ -48,13 +48,14 @@ select avg(cost_per_person) from swiggy);
 
 #Q9
 select distinct t1.restaurant_name,t1.city,t2.city
-from swiggy t1 join swiggy t2 
+from
+swiggy t1 
+join swiggy t2 
 on t1.restaurant_name=t2.restaurant_name and
 t1.city<>t2.city;
 
 #Q10
-select distinct restaurant_name,menu_category
-,count(item) as no_of_items from swiggy
+select distinct restaurant_name,menu_category,count(item) as no_of_items from swiggy
 where menu_category='Main Course' 
 group by restaurant_name,menu_category
 order by no_of_items desc limit 1;

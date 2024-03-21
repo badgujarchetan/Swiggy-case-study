@@ -1,6 +1,6 @@
 <h3> Swiggy Case Study Using SQL </h3>  
 
-<h2>Question 1 </h2>
+<h2>Question</h2>
 <P>
 1 .  HOW MANY RESTAURANTS HAVE A RATING GREATER THAN 4.5 ?
 </P>
